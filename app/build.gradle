@@ -13,14 +13,14 @@ android {
     }
     signingConfigs {
         release {
-            storeFile file("C:/Users/AB053167/Desktop/bdmap.jks")
+            storeFile file("C:/Users/Administrator/Desktop/bdmap.jks")
             storePassword 'bdmap123'
             keyAlias 'bdmap'
             keyPassword 'bdmap123'
         }
 
         debug {
-            storeFile file("C:/Users/AB053167/Desktop/bdmap.jks")
+            storeFile file("C:/Users/Administrator/Desktop/bdmap.jks")
             storePassword 'bdmap123'
             keyAlias 'bdmap'
             keyPassword 'bdmap123'
